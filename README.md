@@ -1,4 +1,4 @@
-# emotion_detection_new
+# Emotion_detection_new
 
 A new Flutter project.
 
