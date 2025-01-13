@@ -1,4 +1,4 @@
-# Emotion_detection_new
+# Face Emotion detection 
 
 A new Flutter project.
 
